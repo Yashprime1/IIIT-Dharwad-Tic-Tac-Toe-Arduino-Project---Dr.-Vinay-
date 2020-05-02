@@ -1,10 +1,9 @@
 # Tic-Tac-Toe-using-Arduino
 The traditional Tic-Tac-Toe brought into world of LCD's using arduino
+_____________________________________________________Tic-Tac-Toe________________________________________________________________
 
------------------------------------------------Tic-Tac-Toe
-
----------Author Name:
-                      Yashdeep Suresh Shetty
+--Author Name:
+Yashdeep Suresh Shetty
 
 --Contents
 1. Introduction
